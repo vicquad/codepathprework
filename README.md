@@ -15,9 +15,37 @@ The following **required** functionality is completed:
  
 ## Video Walkthrough
 
-[Video](https://www.youtube.com/watch?v=GA92eKlYio4) .
+[Video](https://www.loom.com/share/60e13164b4f948d0b7b30883249d8825?sid=95a57189-07bd-47b3-8607-a34b6bc805ba) .
 
 ## App Brainstorming (Step 4)
+Three favorite apps:
+
+Notion
+ Highly customizable pages with databases
+ Integration of task lists, calendars, and notes
+ Real-time collaboration
+Google Photos
+ Automatic backup and sync of images
+ Smart search using image recognition
+ Shared albums and memories feature
+TikTok
+ Highly personalized For You page
+ Easy video editing and effects
+ Quick interaction with likes, shares, and comments
+
+Servease – Local Service Marketplace App
+Description:
+Servease is an improved version of apps like TaskRabbit or Thumbtack. It connects users with verified local freelancers and small businesses offering services like cleaning, tutoring, repairs, and personal training. Unlike current platforms, Servease adds a real-time availability calendar, trust scores based on punctuality and communication, and bundled service deals.
+
+Features to implement:
+
+ Smart matching based on location, reviews, and availability
+
+ Trust score system based on real-time behavior (like arriving on time)
+
+ Service bundles with discounts for multi-bookings
+
+ In-app video consultation option before booking
 
 ## Notes
 
