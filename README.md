@@ -21,17 +21,22 @@ The following **required** functionality is completed:
 Three favorite apps:
 
 Notion
- Highly customizable pages with databases
- Integration of task lists, calendars, and notes
- Real-time collaboration
+
+- Highly customizable pages with databases
+- Integration of task lists, calendars, and notes
+- Real-time collaboration
+  
 Google Photos
- Automatic backup and sync of images
- Smart search using image recognition
- Shared albums and memories feature
+
+ -Automatic backup and sync of images
+ -Smart search using image recognition
+ -Shared albums and memories feature
+ 
 TikTok
- Highly personalized For You page
- Easy video editing and effects
- Quick interaction with likes, shares, and comments
+
+ -Highly personalized For You page
+ -Easy video editing and effects
+ -Quick interaction with likes, shares, and comments
 
 Servease – Local Service Marketplace App
 Description:
